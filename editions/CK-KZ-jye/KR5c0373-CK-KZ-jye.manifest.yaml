@@ -1,0 +1,1088 @@
+canonical_identifier: bkk:krp/KR5c0373/CK-KZ-jye/v1
+canonical_location: https://kanripo.org/bkk/KR5c0373/CK-KZ-jye/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 甘水仙源錄
+  date: '2015-08-29 00:57:04.909582'
+  source:
+    repository: kanripo
+    path: KR5c0373
+  image_base_urls:
+    SJB: http://img.kanripo.org/daoist/ztdz/
+    CK-KZ: http://img.kanripo.org/daoist/dzjy/CK-KZ/
+    YP-C: http://img.kanripo.org/daoist/dzjy/JY-C/
+    HFL: http://img.kanripo.org/daoist/ztdz/
+  edition:
+    short: CK-KZ-jye
+entity_encoding:
+  identifier: bkk:encoding/kanripo-pua-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+assets:
+  parts:
+  - {seq: 0, filename: KR5c0373_000-CK-KZ-jye.yaml, hash: 'sha256:9132d45f5ee1a842f327fe4326310ab2a8b09b7772a155a2e5b9939e4302e236'}
+  - {seq: 1, filename: KR5c0373_001-CK-KZ-jye.yaml, hash: 'sha256:74fe19ebe49c270517535b4712afdb482b1671bb61e9fae7a50be347947482f3'}
+  - {seq: 2, filename: KR5c0373_002-CK-KZ-jye.yaml, hash: 'sha256:0a0b457fee5df8c6d54086e8be3842f1be5b0a614e10fc836e272f508037ad19'}
+  - {seq: 3, filename: KR5c0373_003-CK-KZ-jye.yaml, hash: 'sha256:9744da33564000303fa8e65f8a71bafe16fc160cb6097316064d80162d555124'}
+  - {seq: 4, filename: KR5c0373_004-CK-KZ-jye.yaml, hash: 'sha256:2c0a5afd8d0bcf5eefce61e74d06b2acbf5810d3e4070d2ac7f4ccb2e0880940'}
+  - {seq: 5, filename: KR5c0373_005-CK-KZ-jye.yaml, hash: 'sha256:6af5927a5a0c0b97c553786f3b0e0b01930cb53e8451438ce19d917ddde3c547'}
+  - {seq: 6, filename: KR5c0373_006-CK-KZ-jye.yaml, hash: 'sha256:7b7fbd78913597e5b9570a65eb235cbe1c82bba50ed3293f86c5e18916943949'}
+  - {seq: 7, filename: KR5c0373_007-CK-KZ-jye.yaml, hash: 'sha256:535d0ec5e2b192415cb19c286c4e0b9cd3f46a462d902b63c43399bd304a1dfe'}
+  - {seq: 8, filename: KR5c0373_008-CK-KZ-jye.yaml, hash: 'sha256:bfa02978f31169cbe38349fc0aa327a3cdbf77e4ad14b12909ad2d781707b90a'}
+  - {seq: 9, filename: KR5c0373_009-CK-KZ-jye.yaml, hash: 'sha256:73b7d5498d6f4d576ed669864bbf7606cbe3cdf44641f3ad9d3e0ad909c858ea'}
+  - {seq: 10, filename: KR5c0373_010-CK-KZ-jye.yaml, hash: 'sha256:acfa0e1eff96245dcbd61b56a2fc07139775c5a86af9897e1f35da6baad6ebda'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR5c0373_000-CK-KZ-jye.markers.yaml, hash: 'sha256:f72a9599a2686cf9a9ef1c0d98fa637502213c45f7f6989c1c89a35d02b785d7'}
+  - {seq: 1, role: markers, filename: assets/KR5c0373_001-CK-KZ-jye.markers.yaml, hash: 'sha256:2cefe296c9dd05ab26c3120b813c757d105707c5ea543039cbbd169e24b68e1f'}
+  - {seq: 2, role: markers, filename: assets/KR5c0373_002-CK-KZ-jye.markers.yaml, hash: 'sha256:d0116eed085c7e4de132f10c0b708d23413a2603c5f461a04d9fbef136b00e2a'}
+  - {seq: 3, role: markers, filename: assets/KR5c0373_003-CK-KZ-jye.markers.yaml, hash: 'sha256:d992db890cd933b54c455a6078559d80a472f5a463b4fd27baeadbd208cf96c5'}
+  - {seq: 4, role: markers, filename: assets/KR5c0373_004-CK-KZ-jye.markers.yaml, hash: 'sha256:fc944466c4993b7eb95f939586f01ca54e09d19ddff511c6bbf5b2ec6c218b74'}
+  - {seq: 5, role: markers, filename: assets/KR5c0373_005-CK-KZ-jye.markers.yaml, hash: 'sha256:cc9ee470ea966a7203607f1786d438b93163296be1baf180077cccc906fd26c5'}
+  - {seq: 6, role: markers, filename: assets/KR5c0373_006-CK-KZ-jye.markers.yaml, hash: 'sha256:e3d00c4315dcd0c8c2b56e25feba20b705e2b2a99144a78d3d72d5ddd6eeb513'}
+  - {seq: 7, role: markers, filename: assets/KR5c0373_007-CK-KZ-jye.markers.yaml, hash: 'sha256:71bae30a0f43d7af85e7a39977d2b7f910313993898d5245f25c27a18f8c1ab9'}
+  - {seq: 8, role: markers, filename: assets/KR5c0373_008-CK-KZ-jye.markers.yaml, hash: 'sha256:f159b59dbfdd8bbd8f4b25fab47e14053c6c20c13b2e7fea61a449c59e3465a6'}
+  - {seq: 9, role: markers, filename: assets/KR5c0373_009-CK-KZ-jye.markers.yaml, hash: 'sha256:c810c3e912a55dba16a3480d93cdd737b58b5dd4399655c621fb0dc0f6b36624'}
+  - {seq: 10, role: markers, filename: assets/KR5c0373_010-CK-KZ-jye.markers.yaml, hash: 'sha256:95a1100a9e29ec97b373d9c9c49cc2f11b138cf2554d9912ee9ab20c9e0c4398'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR5c0373_CK-KZ-jye_000-h1
+    span:
+    - body
+    - 0
+    - 411
+  label: 甘水仙源錄序
+  type: section
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR5c0373_CK-KZ-jye_001-h2
+    span:
+    - body
+    - 0
+    - 397
+  label: 詔書
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR5c0373_CK-KZ-jye_001-h3
+    span:
+    - body
+    - 397
+    - 397
+  label: 碑文
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR5c0373_CK-KZ-jye_001-h4
+    span:
+    - body
+    - 397
+    - 3037
+  label: 終南山神仙重陽眞人全眞教祖碑
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR5c0373_CK-KZ-jye_001-h5
+    span:
+    - body
+    - 3037
+    - 4337
+  label: 終南山重陽祖師仙跡記
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR5c0373_CK-KZ-jye_001-h6
+    span:
+    - body
+    - 4337
+    - 5620
+  label: 丹陽眞人馬公登眞記
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR5c0373_CK-KZ-jye_001-h7
+    span:
+    - body
+    - 5620
+    - 8785
+  label: 全真第二代丹陽抱一無爲真人馬¶宗師道行碑
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR5c0373_CK-KZ-jye_001-h8
+    span:
+    - body
+    - 8785
+    - 10125
+  label: 長眞子譚眞人仙跡碑銘
+  type: section
+  level: 3
+- ref:
+    seq: 2
+    marker_id: KR5c0373_CK-KZ-jye_002-h2
+    span:
+    - body
+    - 0
+    - 1338
+  label: 長生真人劉宗師道行碑
+  type: section
+  level: 3
+- ref:
+    seq: 2
+    marker_id: KR5c0373_CK-KZ-jye_002-h3
+    span:
+    - body
+    - 1338
+    - 3293
+  label: 長春真人本行碑
+  type: section
+  level: 3
+- ref:
+    seq: 2
+    marker_id: KR5c0373_CK-KZ-jye_002-h4
+    span:
+    - body
+    - 3293
+    - 3481
+  label: 祭文
+  type: section
+  level: 3
+- ref:
+    seq: 2
+    marker_id: KR5c0373_CK-KZ-jye_002-h5
+    span:
+    - body
+    - 3481
+    - 5668
+  label: 玉陽體玄廣度真人王宗師道行碑¶銘(并序)
+  type: section
+  level: 3
+- ref:
+    seq: 2
+    marker_id: KR5c0373_CK-KZ-jye_002-h6
+    span:
+    - body
+    - 5668
+    - 7853
+  label: 廣甯通玄太古真人郝宗師道行碑
+  type: section
+  level: 3
+- ref:
+    seq: 2
+    marker_id: KR5c0373_CK-KZ-jye_002-h7
+    span:
+    - body
+    - 7853
+    - 8119
+  label: 七真讚
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR5c0373_CK-KZ-jye_003-h2
+    span:
+    - body
+    - 0
+    - 3161
+  label: 淸和妙道廣化真人尹宗師碑銘并序
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR5c0373_CK-KZ-jye_003-h3
+    span:
+    - body
+    - 3161
+    - 6146
+  label: 玄門掌教大宗師真常真人道行碑¶銘
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR5c0373_CK-KZ-jye_003-h4
+    span:
+    - body
+    - 6146
+    - 7916
+  label: 終南山重陽萬壽宮洞真于真人道¶<md:KR5c0373_HFL_003-019b>¶行碑
+  type: section
+  level: 3
+- ref:
+    seq: 4
+    marker_id: KR5c0373_CK-KZ-jye_004-h2
+    span:
+    - body
+    - 0
+    - 611
+  label: 真常子李真人碑銘
+  type: section
+  level: 3
+- ref:
+    seq: 4
+    marker_id: KR5c0373_CK-KZ-jye_004-h3
+    span:
+    - body
+    - 611
+    - 1595
+  label: 離峯子于公墓銘¶<md:KR5c0373_HFL_004-003a>
+  type: section
+  level: 3
+- ref:
+    seq: 4
+    marker_id: KR5c0373_CK-KZ-jye_004-h4
+    span:
+    - body
+    - 1595
+    - 2841
+  label: 弘玄真人趙公道行碑¶<md:KR5c0373_HFL_004-006a>
+  type: section
+  level: 3
+- ref:
+    seq: 4
+    marker_id: KR5c0373_CK-KZ-jye_004-h5
+    span:
+    - body
+    - 2841
+    - 3419
+  label: 終南山碧虛真人楊先生墓銘
+  type: section
+  level: 3
+- ref:
+    seq: 4
+    marker_id: KR5c0373_CK-KZ-jye_004-h6
+    span:
+    - body
+    - 3419
+    - 5023
+  label: 終南山全陽真人周尊師道行碑
+  type: section
+  level: 3
+- ref:
+    seq: 4
+    marker_id: KR5c0373_CK-KZ-jye_004-h7
+    span:
+    - body
+    - 5023
+    - 6094
+  label: 普照真人玄通子范公墓誌銘
+  type: section
+  level: 3
+- ref:
+    seq: 4
+    marker_id: KR5c0373_CK-KZ-jye_004-h8
+    span:
+    - body
+    - 6094
+    - 7805
+  label: 棲雲真人王尊師道行碑
+  type: section
+  level: 3
+- ref:
+    seq: 4
+    marker_id: KR5c0373_CK-KZ-jye_004-h9
+    span:
+    - body
+    - 7805
+    - 8549
+  label: 應緣扶教崇道張尊師道行碑
+  type: section
+  level: 3
+- ref:
+    seq: 5
+    marker_id: KR5c0373_CK-KZ-jye_005-h2
+    span:
+    - body
+    - 0
+    - 1096
+  label: 玄門掌教宗師誠明真人道行碑銘
+  type: section
+  level: 3
+- ref:
+    seq: 5
+    marker_id: KR5c0373_CK-KZ-jye_005-h3
+    span:
+    - body
+    - 1096
+    - 1425
+  label: 湛然子趙先生墓碑
+  type: section
+  level: 3
+- ref:
+    seq: 5
+    marker_id: KR5c0373_CK-KZ-jye_005-h4
+    span:
+    - body
+    - 1425
+    - 1968
+  label: 終南山靈虛觀冲虛大師呂君墓誌¶<md:KR5c0373_HFL_005-005b>
+  type: section
+  level: 3
+- ref:
+    seq: 5
+    marker_id: KR5c0373_CK-KZ-jye_005-h5
+    span:
+    - body
+    - 1968
+    - 2640
+  label: 眞靜崔先生傳
+  type: section
+  level: 3
+- ref:
+    seq: 5
+    marker_id: KR5c0373_CK-KZ-jye_005-h6
+    span:
+    - body
+    - 2640
+    - 5370
+  label: 冲和真人潘公神道之碑
+  type: section
+  level: 3
+- ref:
+    seq: 5
+    marker_id: KR5c0373_CK-KZ-jye_005-h7
+    span:
+    - body
+    - 5370
+    - 6443
+  label: 無爲抱道素德眞人夏公道行碑記¶<md:KR5c0373_HFL_005-017b>
+  type: section
+  level: 3
+- ref:
+    seq: 5
+    marker_id: KR5c0373_CK-KZ-jye_005-h8
+    span:
+    - body
+    - 6443
+    - 7089
+  label: 冲虛大師于公墓碣銘
+  type: section
+  level: 3
+- ref:
+    seq: 5
+    marker_id: KR5c0373_CK-KZ-jye_005-h9
+    span:
+    - body
+    - 7089
+    - 8749
+  label: 玄門弘教白雲眞人綦公道行碑
+  type: section
+  level: 3
+- ref:
+    seq: 6
+    marker_id: KR5c0373_CK-KZ-jye_006-h2
+    span:
+    - body
+    - 0
+    - 1840
+  label: 終南山重陽萬壽宮無欲觀妙真人¶李公本行碑
+  type: section
+  level: 3
+- ref:
+    seq: 6
+    marker_id: KR5c0373_CK-KZ-jye_006-h3
+    span:
+    - body
+    - 1840
+    - 2167
+  label: 紫陽真人祭無欲真人
+  type: section
+  level: 3
+- ref:
+    seq: 6
+    marker_id: KR5c0373_CK-KZ-jye_006-h4
+    span:
+    - body
+    - 2167
+    - 3570
+  label: 佐玄寂照大師馮公道行碑銘
+  type: section
+  level: 3
+- ref:
+    seq: 6
+    marker_id: KR5c0373_CK-KZ-jye_006-h5
+    span:
+    - body
+    - 3570
+    - 5099
+  label: 重玄廣德弘道真人孟公碑銘
+  type: section
+  level: 3
+- ref:
+    seq: 6
+    marker_id: KR5c0373_CK-KZ-jye_006-h6
+    span:
+    - body
+    - 5099
+    - 5997
+  label: 渾源縣真常子劉君道行記
+  type: section
+  level: 3
+- ref:
+    seq: 6
+    marker_id: KR5c0373_CK-KZ-jye_006-h7
+    span:
+    - body
+    - 5997
+    - 6971
+  label: 重玄子李先生返真碑銘
+  type: section
+  level: 3
+- ref:
+    seq: 6
+    marker_id: KR5c0373_CK-KZ-jye_006-h8
+    span:
+    - body
+    - 6971
+    - 8302
+  label: 棲真子李尊師墓碑
+  type: section
+  level: 3
+- ref:
+    seq: 7
+    marker_id: KR5c0373_CK-KZ-jye_007-h2
+    span:
+    - body
+    - 0
+    - 1492
+  label: ¶崇真光教湻和真人道行之碑
+  type: section
+  level: 3
+- ref:
+    seq: 7
+    marker_id: KR5c0373_CK-KZ-jye_007-h3
+    span:
+    - body
+    - 1492
+    - 3267
+  label: 順真冲虛真人毛尊師蛻化銘
+  type: section
+  level: 3
+- ref:
+    seq: 7
+    marker_id: KR5c0373_CK-KZ-jye_007-h4
+    span:
+    - body
+    - 3267
+    - 4451
+  label: 終南山圓明真人李練師道行碑
+  type: section
+  level: 3
+- ref:
+    seq: 7
+    marker_id: KR5c0373_CK-KZ-jye_007-h5
+    span:
+    - body
+    - 4451
+    - 5194
+  label: 淸虛大師把君道行錄
+  type: section
+  level: 3
+- ref:
+    seq: 7
+    marker_id: KR5c0373_CK-KZ-jye_007-h6
+    span:
+    - body
+    - 5194
+    - 6452
+  label: 終南山樓觀宗聖宮同塵真人李尊¶師道行碑¶<md:KR5c0373_HFL_007-017a>
+  type: section
+  level: 3
+- ref:
+    seq: 7
+    marker_id: KR5c0373_CK-KZ-jye_007-h7
+    span:
+    - body
+    - 6452
+    - 7622
+  label: 洗燈子然先生道行碑銘
+  type: section
+  level: 3
+- ref:
+    seq: 7
+    marker_id: KR5c0373_CK-KZ-jye_007-h8
+    span:
+    - body
+    - 7622
+    - 8501
+  label: 通真子秦公道行碑銘
+  type: section
+  level: 3
+- ref:
+    seq: 7
+    marker_id: KR5c0373_CK-KZ-jye_007-h9
+    span:
+    - body
+    - 8501
+    - 8853
+  label: 恕齋王先生事蹟¶<md:KR5c0373_HFL_007-027a>
+  type: section
+  level: 3
+- ref:
+    seq: 7
+    marker_id: KR5c0373_CK-KZ-jye_007-h10
+    span:
+    - body
+    - 8853
+    - 8978
+  label: 訥庵張先生事蹟
+  type: section
+  level: 3
+- ref:
+    seq: 8
+    marker_id: KR5c0373_CK-KZ-jye_008-h2
+    span:
+    - body
+    - 0
+    - 588
+  label: 純成子李君墓誌銘
+  type: section
+  level: 3
+- ref:
+    seq: 8
+    marker_id: KR5c0373_CK-KZ-jye_008-h3
+    span:
+    - body
+    - 588
+    - 2186
+  label: 洞觀普濟圓明真人高君道行碑
+  type: section
+  level: 3
+- ref:
+    seq: 8
+    marker_id: KR5c0373_CK-KZ-jye_008-h4
+    span:
+    - body
+    - 2186
+    - 3345
+  label: 太華真隱楮君傳
+  type: section
+  level: 3
+- ref:
+    seq: 8
+    marker_id: KR5c0373_CK-KZ-jye_008-h5
+    span:
+    - body
+    - 3345
+    - 4004
+  label: 洞玄子史公道行錄
+  type: section
+  level: 3
+- ref:
+    seq: 8
+    marker_id: KR5c0373_CK-KZ-jye_008-h6
+    span:
+    - body
+    - 4004
+    - 4307
+  label: 史講師道行錄後跋文
+  type: section
+  level: 3
+- ref:
+    seq: 8
+    marker_id: KR5c0373_CK-KZ-jye_008-h7
+    span:
+    - body
+    - 4307
+    - 5390
+  label: 泰安阜上張氏先瑩記
+  type: section
+  level: 3
+- ref:
+    seq: 8
+    marker_id: KR5c0373_CK-KZ-jye_008-h8
+    span:
+    - body
+    - 5390
+    - 5953
+  label: 終南劉先生事蹟
+  type: section
+  level: 3
+- ref:
+    seq: 8
+    marker_id: KR5c0373_CK-KZ-jye_008-h9
+    span:
+    - body
+    - 5953
+    - 7092
+  label: 淸平子趙先生道行碑
+  type: section
+  level: 3
+- ref:
+    seq: 8
+    marker_id: KR5c0373_CK-KZ-jye_008-h10
+    span:
+    - body
+    - 7092
+    - 7490
+  label: 知常姬真人事蹟
+  type: section
+  level: 3
+- ref:
+    seq: 8
+    marker_id: KR5c0373_CK-KZ-jye_008-h11
+    span:
+    - body
+    - 7490
+    - 8273
+  label: 延安路趙先生本行記
+  type: section
+  level: 3
+- ref:
+    seq: 8
+    marker_id: KR5c0373_CK-KZ-jye_008-h12
+    span:
+    - body
+    - 8273
+    - 9011
+  label: 洞元虛靜大師申公提點墓誌銘
+  type: section
+  level: 3
+- ref:
+    seq: 9
+    marker_id: KR5c0373_CK-KZ-jye_009-h2
+    span:
+    - body
+    - 0
+    - 1830
+  label: 鄠縣秦渡鎮重修志道觀碑
+  type: section
+  level: 3
+- ref:
+    seq: 9
+    marker_id: KR5c0373_CK-KZ-jye_009-h3
+    span:
+    - body
+    - 1830
+    - 2804
+  label: 燕京白雲觀處順堂會葬記
+  type: section
+  level: 3
+- ref:
+    seq: 9
+    marker_id: KR5c0373_CK-KZ-jye_009-h4
+    span:
+    - body
+    - 2804
+    - 3567
+  label: 懷州淸真觀記
+  type: section
+  level: 3
+- ref:
+    seq: 9
+    marker_id: KR5c0373_CK-KZ-jye_009-h5
+    span:
+    - body
+    - 3567
+    - 4966
+  label: 衞州胙城縣靈虛觀碑
+  type: section
+  level: 3
+- ref:
+    seq: 9
+    marker_id: KR5c0373_CK-KZ-jye_009-h6
+    span:
+    - body
+    - 4966
+    - 5658
+  label: 鄧州重陽觀記
+  type: section
+  level: 3
+- ref:
+    seq: 9
+    marker_id: KR5c0373_CK-KZ-jye_009-h7
+    span:
+    - body
+    - 5658
+    - 6682
+  label: 燕京剏建玉淸觀碑
+  type: section
+  level: 3
+- ref:
+    seq: 9
+    marker_id: KR5c0373_CK-KZ-jye_009-h8
+    span:
+    - body
+    - 6682
+    - 7557
+  label: 德興府秋陽觀碑
+  type: section
+  level: 3
+- ref:
+    seq: 9
+    marker_id: KR5c0373_CK-KZ-jye_009-h9
+    span:
+    - body
+    - 7557
+    - 8396
+  label: 剏建真常觀記
+  type: section
+  level: 3
+- ref:
+    seq: 9
+    marker_id: KR5c0373_CK-KZ-jye_009-h10
+    span:
+    - body
+    - 8396
+    - 9231
+  label: 大金陜州修靈虛觀記
+  type: section
+  level: 3
+- ref:
+    seq: 10
+    marker_id: KR5c0373_CK-KZ-jye_010-h2
+    span:
+    - body
+    - 0
+    - 1036
+  label: 修建開陽觀碑
+  type: section
+  level: 3
+- ref:
+    seq: 10
+    marker_id: KR5c0373_CK-KZ-jye_010-h3
+    span:
+    - body
+    - 1036
+    - 2020
+  label: 順德府通真觀碑
+  type: section
+  level: 3
+- ref:
+    seq: 10
+    marker_id: KR5c0373_CK-KZ-jye_010-h4
+    span:
+    - body
+    - 2020
+    - 2586
+  label: 重修太淸觀記
+  type: section
+  level: 2
+- ref:
+    seq: 10
+    marker_id: KR5c0373_CK-KZ-jye_010-h5
+    span:
+    - body
+    - 2586
+    - 3305
+  label: 淵靜觀記
+  type: section
+  level: 2
+- ref:
+    seq: 10
+    marker_id: KR5c0373_CK-KZ-jye_010-h6
+    span:
+    - body
+    - 3305
+    - 3992
+  label: 神淸觀記
+  type: section
+  level: 2
+- ref:
+    seq: 10
+    marker_id: KR5c0373_CK-KZ-jye_010-h7
+    span:
+    - body
+    - 3992
+    - 4927
+  label: 隴州汧陽縣新修玉淸觀記
+  type: section
+  level: 2
+- ref:
+    seq: 10
+    marker_id: KR5c0373_CK-KZ-jye_010-h8
+    span:
+    - body
+    - 4927
+    - 5742
+  label: 大都淸逸觀碑
+  type: section
+  level: 3
+- ref:
+    seq: 10
+    marker_id: KR5c0373_CK-KZ-jye_010-h9
+    span:
+    - body
+    - 5742
+    - 6483
+  label: 增修華淸宮記
+  type: section
+  level: 2
+- ref:
+    seq: 10
+    marker_id: KR5c0373_CK-KZ-jye_010-h10
+    span:
+    - body
+    - 6483
+    - 6988
+  label: 七眞傳序
+  type: section
+  level: 2
+- ref:
+    seq: 10
+    marker_id: KR5c0373_CK-KZ-jye_010-h11
+    span:
+    - body
+    - 6988
+    - 7537
+  label: 送眞人于公如北京引
+  type: section
+  level: 2
+- ref:
+    seq: 10
+    marker_id: KR5c0373_CK-KZ-jye_010-h12
+    span:
+    - body
+    - 7537
+    - 7565
+  label: 眞常李志常
+  type: section
+  level: 3
+- ref:
+    seq: 10
+    marker_id: KR5c0373_CK-KZ-jye_010-h13
+    span:
+    - body
+    - 7565
+    - 7585
+  label: 又¶<md:KR5c0373_HFL_010-024b>
+  type: section
+  level: 3
+- ref:
+    seq: 10
+    marker_id: KR5c0373_CK-KZ-jye_010-h14
+    span:
+    - body
+    - 7585
+    - 7641
+  label: 定庵呉章
+  type: section
+  level: 3
+- ref:
+    seq: 10
+    marker_id: KR5c0373_CK-KZ-jye_010-h15
+    span:
+    - body
+    - 7641
+    - 7697
+  label: 馮翊馮志亨
+  type: section
+  level: 3
+- ref:
+    seq: 10
+    marker_id: KR5c0373_CK-KZ-jye_010-h16
+    span:
+    - body
+    - 7697
+    - 7737
+  label: 河東段天常
+  type: section
+  level: 3
+- ref:
+    seq: 10
+    marker_id: KR5c0373_CK-KZ-jye_010-h17
+    span:
+    - body
+    - 7737
+    - 8285
+  label: 終南山甘河鎭遇仙宮詩序
+  type: section
+  level: 2
+- ref:
+    seq: 10
+    marker_id: KR5c0373_CK-KZ-jye_010-h18
+    span:
+    - body
+    - 8285
+    - 8416
+  label: 題甘河遇仙宮
+  type: section
+  level: 2
+- ref:
+    seq: 10
+    marker_id: KR5c0373_CK-KZ-jye_010-h19
+    span:
+    - body
+    - 8416
+    - 8472
+  label: 陜西行中書省左右司郎中張𧗼上
+  type: section
+  level: 3
+- ref:
+    seq: 10
+    marker_id: KR5c0373_CK-KZ-jye_010-h20
+    span:
+    - body
+    - 8472
+    - 8528
+  label: 翰林待制孟攀鱗上
+  type: section
+  level: 3
+- ref:
+    seq: 10
+    marker_id: KR5c0373_CK-KZ-jye_010-h21
+    span:
+    - body
+    - 8528
+    - 8584
+  label: 京兆府學教授李庭上
+  type: section
+  level: 3
+- ref:
+    seq: 10
+    marker_id: KR5c0373_CK-KZ-jye_010-h22
+    span:
+    - body
+    - 8584
+    - 8640
+  label: 陜西漢中道提刑按察使王博文上
+  type: section
+  level: 3
+- ref:
+    seq: 10
+    marker_id: KR5c0373_CK-KZ-jye_010-h23
+    span:
+    - body
+    - 8640
+    - 8696
+  label: 宣授樞密院參議陳邃上
+  type: section
+  level: 3
+- ref:
+    seq: 10
+    marker_id: KR5c0373_CK-KZ-jye_010-h24
+    span:
+    - body
+    - 8696
+    - 8736
+  label: 翰林直學士中順大夫王利用上
+  type: section
+  level: 3
+- ref:
+    seq: 10
+    marker_id: KR5c0373_CK-KZ-jye_010-h25
+    span:
+    - body
+    - 8736
+    - 8820
+  label: 洛陽宰沂上¶<md:KR5c0373_HFL_010-029a>
+  type: section
+  level: 3
+- ref:
+    seq: 10
+    marker_id: KR5c0373_CK-KZ-jye_010-h26
+    span:
+    - body
+    - 8820
+    - 8904
+  label: 翰林直學士知制誥姚燧上
+  type: section
+  level: 3
+- ref:
+    seq: 10
+    marker_id: KR5c0373_CK-KZ-jye_010-h27
+    span:
+    - body
+    - 8904
+    - 8960
+  label: 嘉議大夫安西路總管府尹李頍上
+  type: section
+  level: 3
+- ref:
+    seq: 10
+    marker_id: KR5c0373_CK-KZ-jye_010-h28
+    span:
+    - body
+    - 8960
+    - 9016
+  label: 安西路總管府同知王贇上
+  type: section
+  level: 3
+- ref:
+    seq: 10
+    marker_id: KR5c0373_CK-KZ-jye_010-h29
+    span:
+    - body
+    - 9016
+    - 9072
+  label: 安西路總管府判官寇元德上
+  type: section
+  level: 3
+- ref:
+    seq: 10
+    marker_id: KR5c0373_CK-KZ-jye_010-h30
+    span:
+    - body
+    - 9072
+    - 9182
+  label: 安西王府說書劉汾題
+  type: section
+  level: 3
+- ref:
+    seq: 10
+    marker_id: KR5c0373_CK-KZ-jye_010-h31
+    span:
+    - body
+    - 9182
+    - 9238
+  label: 長安客喬在上
+  type: section
+  level: 3
+- ref:
+    seq: 10
+    marker_id: KR5c0373_CK-KZ-jye_010-h32
+    span:
+    - body
+    - 9238
+    - 9294
+  label: 陜西興元等路教門提點何道甯上
+  type: section
+  level: 3
+- ref:
+    seq: 10
+    marker_id: KR5c0373_CK-KZ-jye_010-h33
+    span:
+    - body
+    - 9294
+    - 9350
+  label: 夷門天樂道人李道謙上
+  type: section
+  level: 3
+- ref:
+    seq: 10
+    marker_id: KR5c0373_CK-KZ-jye_010-h34
+    span:
+    - body
+    - 9350
+    - 9406
+  label: 前諸路道教提舉衞致夷上
+  type: section
+  level: 3
+- ref:
+    seq: 10
+    marker_id: KR5c0373_CK-KZ-jye_010-h35
+    span:
+    - body
+    - 9406
+    - 9462
+  label: 安西路道門提點孫德彧上
+  type: section
+  level: 3
+- ref:
+    seq: 10
+    marker_id: KR5c0373_CK-KZ-jye_010-h36
+    span:
+    - body
+    - 9462
+    - 9874
+  label: 後序
+  type: section
+  level: 2
+hash: sha256:68d1f319cfe154d981d7b7135398be2c812b5d9f2206279b4b348d3498c39f96
