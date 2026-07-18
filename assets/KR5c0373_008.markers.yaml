@@ -2640,6 +2640,7 @@ markers:
   - {type: line-break, offset: 6032, content: '', id: KR5c0373_HFL_008-019a09}
   - {type: indent, offset: 6032, content: 　　　　, id: KR5c0373_krp_008-bkkind16}
   - {type: punctuation, offset: 6032, content: (, id: KR5c0373_krp_008-bkkpn1}
+  - {type: voice, offset: 6032, length: 15, name: note, id: n1}
   - {type: variant, offset: 6039, length: 1, content: 宫, CK-KZ: 宮}
   - {type: variant, offset: 6039, length: 1, content: 宫, CK-KZ-jye: 宮}
   - {type: variant, offset: 6039, length: 1, content: 宫, YP-C: 宮}
@@ -3377,6 +3378,7 @@ markers:
   - {type: line-break, offset: 7585, content: '', id: KR5c0373_HFL_008-024a03}
   - {type: indent, offset: 7585, content: 　　　　, id: KR5c0373_krp_008-bkkind19}
   - {type: punctuation, offset: 7585, content: (, id: KR5c0373_krp_008-bkkpn4}
+  - {type: voice, offset: 7585, length: 18, name: note, id: n2}
   - {type: punctuation, offset: 7594, content: /, id: KR5c0373_krp_008-bkkpn5}
   - {type: punctuation, offset: 7603, content: ), id: KR5c0373_krp_008-bkkpn6}
   - {type: 'kr:newline', offset: 7603, content: '
@@ -4039,4 +4041,4 @@ markers:
 
       ', id: KR5c0373_krp_008-bkkkrnewl615}
   back: []
-hash: sha256:d019dd21b88e1e776064db4254af79859f15acf9442d1124e2e98edd5c6d3147
+hash: sha256:724adf20846341237ccfdf060d85b0d173fd2bf0f7ce54519b510a7e0a33f670

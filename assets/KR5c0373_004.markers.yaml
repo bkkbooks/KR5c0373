@@ -38,6 +38,7 @@ markers:
   - {type: line-break, offset: 18, content: '', id: KR5c0373_HFL_004-001a04}
   - {type: indent, offset: 18, content: 　　　　, id: KR5c0373_krp_004-bkkind3}
   - {type: punctuation, offset: 18, content: (, id: KR5c0373_krp_004-bkkpn1}
+  - {type: voice, offset: 18, length: 21, name: note, id: n1}
   - {type: punctuation, offset: 29, content: /, id: KR5c0373_krp_004-bkkpn2}
   - {type: punctuation, offset: 39, content: ), id: KR5c0373_krp_004-bkkpn3}
   - {type: 'kr:newline', offset: 39, content: '
@@ -1447,6 +1448,7 @@ markers:
   - {type: line-break, offset: 2887, content: '', id: KR5c0373_HFL_004-009b06}
   - {type: indent, offset: 2887, content: 　　　　, id: KR5c0373_krp_004-bkkind9}
   - {type: punctuation, offset: 2887, content: (, id: KR5c0373_krp_004-bkkpn4}
+  - {type: voice, offset: 2887, length: 37, name: note, id: n2}
   - {type: punctuation, offset: 2897, content: /, id: KR5c0373_krp_004-bkkpn5}
   - {type: punctuation, offset: 2906, content: ), id: KR5c0373_krp_004-bkkpn6}
   - {type: 'kr:newline', offset: 2906, content: '
@@ -2838,6 +2840,7 @@ markers:
   - {type: line-break, offset: 6175, content: '', id: KR5c0373_HFL_004-019b05}
   - {type: indent, offset: 6175, content: 　　　　, id: KR5c0373_krp_004-bkkind16}
   - {type: punctuation, offset: 6175, content: (, id: KR5c0373_krp_004-bkkpn10}
+  - {type: voice, offset: 6175, length: 20, name: note, id: n3}
   - {type: variant, offset: 6180, length: 1, content: 㫖, CK-KZ: 旨}
   - {type: variant, offset: 6180, length: 1, content: 㫖, CK-KZ-jye: 旨}
   - {type: variant, offset: 6180, length: 1, content: 㫖, YP-C: 旨}
@@ -3612,6 +3615,7 @@ markers:
   - {type: line-break, offset: 7898, content: '', id: KR5c0373_HFL_004-024b08}
   - {type: indent, offset: 7898, content: 　　　　, id: KR5c0373_krp_004-bkkind18}
   - {type: punctuation, offset: 7898, content: (, id: KR5c0373_krp_004-bkkpn13}
+  - {type: voice, offset: 7898, length: 16, name: note, id: n4}
   - {type: variant, offset: 7901, length: 1, content: 大, CK-KZ: 太}
   - {type: variant, offset: 7901, length: 1, content: 大, CK-KZ-jye: 太}
   - {type: variant, offset: 7901, length: 1, content: 大, YP-C: 太}
@@ -3985,4 +3989,4 @@ markers:
 
       ', id: KR5c0373_krp_004-bkkkrnewl592}
   back: []
-hash: sha256:7665abee3848a7e6dbf73e3e3f0cbfdeb0020eea03aaf9c21409ec9a677f165d
+hash: sha256:0f891737c674bb8e00eb33bd0ceb2b57c6057b359b032b766d67f1d5faa0ca26
